@@ -1,0 +1,6 @@
+.idea
+.pytest_cache
+app/db.sqlite
+app/db.test.sqlite
+Pipfile.lock
+.vscode/settings.json
